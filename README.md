@@ -20,9 +20,11 @@ Where our app differs from most messaging apps is the functionality that allows 
 
 ## Table of Contents
 
+- [Technologies Used](#technologies-used)
+- [User Stories](#user-stories)
+- [Design](#design)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies Used](#technologies-used)
 - [Collaborators](#Collaborators)
 - [License](#license)
 
@@ -75,6 +77,9 @@ As a logged in user, I want to be able to send a message so that I can communica
 As a logged in user, I want to see messages populate the page as messages are sent in so that I don’t have to refresh every time I think a message might have been sent
 
 ![user sends and recieves messages](assets/chatorama-dynamic-rendering.gif)
+
+## Design
+UI Designs available on [Figma](https://www.figma.com/design/hem6X8hGZJ7KqvdpqtAKr0/Chatorama?node-id=0-1&t=tOi75UA3my5QXo1e-1)
 
 ## Installation
 
